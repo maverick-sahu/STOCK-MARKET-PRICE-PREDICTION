@@ -11,3 +11,8 @@ In this project we looked at data from the stock market, particularly some techn
 We learned how to use pandas to get stock information, visualized different aspects of it such as the moving average for different time frames and established different correlation plots between all the stocks using their daily returns.  
 
 We also  predicted the future stock prices through a Long Short Term Memory (LSTM) method
+
+
+# The Output and Predictions can be viewed here
+
+https://stock-predictor-hacksprint.herokuapp.com/home.html
