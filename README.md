@@ -1,6 +1,3 @@
-# Hacksprint_PS05_ENIGMA
-
-
 # Our Problem Statement:   
 STOCK MARKET PRICE PREDICTION FOR THE NEXT 10 DAYS 
 
